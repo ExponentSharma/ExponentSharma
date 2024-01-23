@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shivam Shrma, Welcome to my GitHub 👨‍💻❤️
+# 👋 Hi, I’m Shivam Sharma, Welcome to my GitHub 👨‍💻❤️
 - 👀 I’m interested in Java Full Stack Development
 - 🌱 I’m currently learning Java Backend ( Spring Boot, Hibernate, JPA, Spring Secuurity 6 ) with Frontend Technologies Framework (React.js)
 - 💞️ I’m looking to collaborate on Java Backend Projects
